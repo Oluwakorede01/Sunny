@@ -257,13 +257,11 @@ color:hsl(210, 4%, 67%);
 p{
     color: hsl(213, 9%, 39%);
 }
+    
 .section-3{
-    background-color:hsl(168, 34%, 41%);
-    min-height: 100vh;
-}
-.grid-b{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    
 }
 .grid-b-1{
     background-image: url(./images/desktop/image-gallery-milkbottles.jpg);
@@ -297,7 +295,7 @@ p{
 }
 footer{
     text-align: center;
-    min-height: 30vh;
+    background-color:hsl(168, 34%, 41%);
 }
 ol{
     display: flex;
@@ -312,15 +310,16 @@ ol{
     display: flex;
     gap: 2rem;
     justify-content: center;
-    margin-top: 50px;
+    padding-top: 50px;
     color: hsl(212, 27%, 19%);
+    padding-bottom: 50px;
 }
 footer h1{
     color: hsl(212, 27%, 19%);
-    margin-top: 20px;
     font-size: 30px;
-    margin-top: 50px;
     font-family: "Fraunces", serif;
+    padding-top: 50px;
+    
 }
 ol li:hover{
     color: white;
