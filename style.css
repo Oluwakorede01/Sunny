@@ -79,8 +79,8 @@ header h1{
 }
 
 .grid-box1 .transform-text{
-       width: 500px;
        font-size: 18px;
+       width: 500px;
     }
 
 .grid-box1 h1 {
@@ -188,7 +188,7 @@ header h1{
 
 .grid-box6 .photography-text{
     text-align: center;
-    width: 400px;
+    width: 500;
     margin-bottom: 40px;
 }
 .grid-box6 h2{
@@ -260,7 +260,6 @@ p{
 .section-3{
     background-color:hsl(168, 34%, 41%);
     min-height: 100vh;
-   
 }
 .grid-b{
     display: grid;
@@ -374,7 +373,6 @@ ol li:hover{
 
     .section-2{
         text-align: center;
-    }
         
     }
 .grid-b-1{
@@ -408,10 +406,9 @@ background-size: cover;
 nav ul{
     display: none;
 }
-
-}
 footer{
     padding-bottom: 50px;
+
 }
 header{
     background-image: url(./images/mobile/image-header.jpg);
