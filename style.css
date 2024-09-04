@@ -13,7 +13,6 @@ body{
 }
 header{
     background-image: url(./images/desktop/image-header.jpg);
-    margin-top: 10rem;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
