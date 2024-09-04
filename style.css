@@ -80,7 +80,7 @@ header h1{
 
 .grid-box1 .transform-text{
        font-size: 18px;
-       width: 500px;
+       max-width: 500px;
     }
 
 .grid-box1 h1 {
@@ -124,7 +124,7 @@ header h1{
     min-height: 700px;
 }
 .grid-box4 .audience-text{
-    width: 500px;
+    max-width: 500px;
     font-size: 18px;
 }
 .grid-box4 h1{
@@ -157,7 +157,7 @@ header h1{
 }
 .grid-box5 .graphic-text{
     text-align: center;
-    width: 500px;
+    max-width: 500px;
     margin-bottom: 40px;
 }
 .grid-box5 h2{
@@ -188,7 +188,7 @@ header h1{
 
 .grid-box6 .photography-text{
     text-align: center;
-    width: 500;
+    max-width: 500px;
     margin-bottom: 40px;
 }
 .grid-box6 h2{
